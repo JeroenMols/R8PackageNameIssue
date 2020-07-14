@@ -1,5 +1,5 @@
 # R8PackageNameIssue
-Reproduction project for R8 issue on Android issue tracker
+Reproduction project for R8 issue on Android issue tracker: https://issuetracker.google.com/u/0/issues/161227100
 
 ## Explanation
 R8 version `2.0.88` (the default one bundled with Android Gradle plugin 4.0.0) strips out the package names from classes of Android library projects when `minify` is enabled:
