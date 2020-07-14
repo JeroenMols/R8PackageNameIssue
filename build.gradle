@@ -7,7 +7,7 @@ buildscript {
     }
     dependencies {
         // Enable the line below to use an older version of R8
-        classpath 'com.android.tools:r8:1.6.84'
+//        classpath 'com.android.tools:r8:1.6.84'
         classpath "com.android.tools.build:gradle:4.0.0"
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
     }
